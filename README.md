@@ -1,4 +1,4 @@
-# Z-Insights Engineer Homework
+# Zuora Offline Coding Exercise
 
 ## Overview
 
